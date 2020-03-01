@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">list-o-mat</string>
-    <string name="create_list">Create List</string>
+    <string name="create_list">Add</string>
     <string name="show_lists">Show Lists</string>
     <string name="list_name">List Name</string>
     <string name="item_name">Item Name</string>
